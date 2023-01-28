@@ -10,8 +10,8 @@
 <p>
 
 <h3>recent projects 📆</h3>
-<a href="https://github.com/SohKey/poke-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohkey&repo=poke-api"/>      
+<a href="https://github.com/SohKey/portfolio-vue">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohkey&repo=portfolio-vue"/>      
 </a>
 <a href="https://github.com/SohKey/poke-app-angular">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohkey&repo=poke-app-angular"/> 
