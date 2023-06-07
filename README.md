@@ -62,7 +62,7 @@
       <td><br><br>
         <h3 align="left">Github contributions:</h3><r>
         <p>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=SohKey&show_icons=true&theme=dracula&bg_color=00000001"/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=SohKey&show_icons=true&theme=dracula&bg_color=00000001&count_private=true"/>
         </p>
       </td>
     </tr>
