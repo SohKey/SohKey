@@ -18,6 +18,9 @@
 <a href="https://github.com/SohKey/poke-api">
 <img src="https://github-readme-stats-sohkey.vercel.app/api/pin/?username=sohkey&repo=poke-api"/> 
 </a>
+<a href="https://github.com/SohKey/portfolio-vue">
+  <img src="https://github-readme-stats-sohkey.vercel.app/api/pin/?username=sohkey&repo=nft-dapp"/>      
+</a>
 </p>
 </div>
 
