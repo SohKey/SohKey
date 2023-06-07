@@ -6,7 +6,7 @@
 
 <hr></hr>
 <div align="center">
-❤ I love NodeJS and building amsome project <br>
+❤ I love NodeJS and building amsome project<br>
 💼 I’m currently working on <a href="https://github.com/aresrpg/aresrpg">@aresrpg</a> <br>
 📚 I am 20 years old, still studying <br>
 <p>
