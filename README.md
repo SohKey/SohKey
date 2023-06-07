@@ -13,10 +13,10 @@
 
 <h3>recent projects 📆</h3>
 <a href="https://github.com/SohKey/portfolio-vue">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohkey&repo=portfolio-vue"/>      
+  <img src="https://github-readme-stats-sohkey.vercel.app/api/pin/?username=sohkey&repo=portfolio-vue"/>      
 </a>
 <a href="https://github.com/SohKey/poke-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sohkey&repo=poke-api"/> 
+<img src="https://github-readme-stats-sohkey.vercel.app/api/pin/?username=sohkey&repo=poke-api"/> 
 </a>
 </p>
 </div>
@@ -57,12 +57,12 @@
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
           </a>
         </p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohKey&layout=compact&card_width=470&theme=dracula&bg_color=00000000&count_private=true"/>
+        <img align="center" src="https://github-readme-stats-sohkey.vercel.app/api/top-langs/?username=SohKey&layout=compact&card_width=470&theme=dracula&bg_color=00000000&count_private=true"/>
       </td>
       <td><br><br>
         <h3 align="left">Github contributions:</h3><r>
         <p>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=SohKey&show_icons=true&theme=dracula&bg_color=00000001&count_private=true"/>
+            <img align="center" src="https://github-readme-stats-sohkey.vercel.app/api?username=SohKey&show_icons=true&theme=dracula&bg_color=00000001&count_private=true"/>
         </p>
       </td>
     </tr>
